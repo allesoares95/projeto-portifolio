@@ -16,7 +16,7 @@
   <img align="right" width="400" height="350" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="gif">
   
   <br><br>
-  <h1 align="center">
+  <h3 align="center">
   Criei esse portifolio com base no meu<br>
   conhecimento e aprendizado<br>
 
