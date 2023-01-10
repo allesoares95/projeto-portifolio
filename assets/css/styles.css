@@ -5,7 +5,8 @@
   box-sizing: border-box;
 }
 
-body, html {
+body,
+html {
   position: relative;
   overflow-x: hidden;
 }
@@ -16,11 +17,14 @@ body {
   height: 100vh;
 }
 
-h1{
+h1 {
   color: #fff;
 }
 
-h2, h3, h4, p {
+h2,
+h3,
+h4,
+p {
   color: rgb(163, 162, 162);
 }
 
@@ -86,6 +90,7 @@ nav {
   body {
     overflow-x: hidden;
   }
+
   .nav-list {
     position: absolute;
     top: 8vh;
@@ -99,10 +104,12 @@ nav {
     transform: translateX(100%);
     transition: transform 0.3s ease-in;
   }
+
   .nav-list li {
     margin-left: 0;
     opacity: 0;
   }
+
   .mobile-menu {
     display: block;
   }
@@ -117,6 +124,7 @@ nav {
     opacity: 0;
     transform: translateX(50px);
   }
+
   to {
     opacity: 1;
     transform: translateX(0);
@@ -149,6 +157,7 @@ div.home-text {
 
 h1.home_title {
   font-size: 4rem;
+  padding: 50px;
 }
 
 h2.home_subtitle {
@@ -162,7 +171,7 @@ div p.home_descricao {
   display: inline-block;
 }
 
-section.home-perfil{
+section.home-perfil {
   text-align: center;
   padding: 4rem;
 }
@@ -174,7 +183,7 @@ section.home-perfil{
 }
 
 .perfil_info-title {
-  font-size: 3rem; 
+  font-size: 3rem;
   color: #fff;
 
 }
@@ -195,7 +204,7 @@ section.home-perfil{
   text-align: center;
   border-radius: 5px;
   border: 1px solid #190b37;
-  border-left: 20px solid #241a3a ;
+  border-left: 20px solid #241a3a;
   transition: all 0.25s;
 }
 
@@ -207,7 +216,7 @@ section.home-perfil{
 .front-end,
 .conhecimento-geral,
 .escolaridade {
-  width: 70%;
+  width: 90%;
 }
 
 .home-skill .grid #skill {
@@ -216,8 +225,8 @@ section.home-perfil{
   text-align: center;
 }
 
-.skills-geral-main{
-  display: grid;
+.skills-geral-main {
+  display: inline-grid;
   align-items: center;
   gap: 5rem;
   padding-left: 2.7rem;
@@ -230,7 +239,7 @@ section.home-perfil{
   margin-bottom: 0.25rem;
 }
 
-.skills-text{
+.skills-text {
   width: auto;
   display: flex;
   justify-content: space-between;
@@ -240,6 +249,7 @@ section.home-perfil{
 .skills_name {
   font-size: 1.5rem;
   font-weight: bold;
+  padding: 0 20px;
 }
 
 .skills_number {
@@ -290,7 +300,7 @@ section.home-perfil{
 .skills_sql,
 .skills_apis {
   width: 30%;
-} 
+}
 
 .skills_college {
   width: 70%;
@@ -363,7 +373,8 @@ section.contact-home {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color:  #241a3a;;
+  background-color: #241a3a;
+  ;
   padding: 3rem;
 }
 
