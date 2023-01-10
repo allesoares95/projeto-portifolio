@@ -45,8 +45,9 @@
 #
 <h2 align="center">
 
-![Clique aqui para acessar](https://allesoares95.github.io/projeto-portifolio/)
+[Clique aqui para acessar](https://allesoares95.github.io/projeto-portifolio)
 
+#
 Qualquer duvida entre em contato 
 
 <div class="contato">
