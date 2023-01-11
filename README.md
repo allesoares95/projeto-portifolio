@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Portifolio </h1>
+  <h1> Portfolio </h1>
 
 ![preview](./assets/img/preview.svg)
 
@@ -17,7 +17,7 @@
   
   <br><br>
   <h3 align="center">
-  Criei esse portifolio com base no meu<br>
+  Criei esse portfolio com base no meu<br>
   conhecimento e aprendizado<br>
 
   Estou ingressando na área de <strong>Front-End</strong><br>
