@@ -274,32 +274,32 @@ section.home-perfil {
 }
 
 .skills_html {
-  width: 90%;
+  width: 30%;
 }
 
 .skills_css {
-  width: 70%;
+  width: 20%;
 }
 
 .skills_js {
-  width: 60%;
+  width: 15%;
 }
 
 .skills_node,
 .skills_react,
 .skills_typescript {
-  width: 30%;
+  width: 10%;
 }
 
 .skills_github,
 .skills_figma {
-  width: 50%;
+  width: 20%;
 }
 
 .skills_docker,
 .skills_sql,
 .skills_apis {
-  width: 30%;
+  width: 15%;
 }
 
 .skills_college {
